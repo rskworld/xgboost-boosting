@@ -1,6 +1,6 @@
 # Release Notes - XGBoost Gradient Boosting v1.0.0
 
-**Release Date:** December 2024  
+**Release Date:** December 2025  
 **Version:** 1.0.0  
 **Author:** Molla Samser (Founder)  
 **Website:** https://rskworld.in
